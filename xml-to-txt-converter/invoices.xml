@@ -1,0 +1,26 @@
+<Invoices>
+    <Invoice>
+        <Number>12345</Number>
+        <Date>2025-04-28</Date>
+        <Amount>1000</Amount>
+        <Description>Nákup materiálu</Description>
+    </Invoice>
+    <Invoice>
+        <Number>12346</Number>
+        <Date>2025-04-29</Date>
+        <Amount>1500</Amount>
+        <Description>Servis zariadení</Description>
+    </Invoice>
+        <Invoice>
+        <Number>1234</Number>
+        <Date>2025-04-30</Date>
+        <Amount>1500</Amount>
+            <Description></Description>
+    </Invoice>
+     <Invoice>
+         <Number></Number>
+        <Date>2025-04-29</Date>
+        <Amount>1500</Amount>
+        <Description>Servis zariadení</Description>
+    </Invoice>
+</Invoices>
